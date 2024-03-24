@@ -1,3 +1,7 @@
 ### Hi, I'm Viktor👋
 
-https://img.shields.io/badge/{https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white
+<p align='center'>
+ <a href="https://t.me/vvvvvviktor">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
