@@ -1,4 +1,4 @@
-### Hi, I'm Viktor👋
+### Hi👋
 
 <p align='center'>
  <a href="https://t.me/vvvvvviktor">
