@@ -9,7 +9,7 @@
 </p>
 
 My name is Novikov Viktor Dmitrievich. I'm a 2nd year student of MIPT DREC.
-
+My [CV](/Novikov_Viktor_CV.pdf).
 
 ## Known programming languages
 
