@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" />
 </p>
 
-My name is Novikov Viktor Dmitrievich. I'm a 2nd year studet of MIPT DREC.
+My name is Novikov Viktor Dmitrievich. I'm a 2nd year student of MIPT DREC.
 
 
 ## Known programming languages
